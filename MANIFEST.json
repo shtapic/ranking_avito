@@ -1,0 +1,110 @@
+{
+  "answer_sha256": "164d974a27b1daeee16bd0a169a6b54f76dfc28dc2c9ab3d2b869d3575a7db8c",
+  "files": [
+    {
+      "path": "final_solution.py",
+      "bytes": 9122,
+      "sha256": "a585160a702eeaa24bef8d213e60aa2f3a34bc4bce4a046167991dceddd7eed4"
+    },
+    {
+      "path": "solution.py",
+      "bytes": 17624,
+      "sha256": "2ff242c0d5e4fcf9472569da235af146ccbe6e512cacad8bfa24d47bc3cda74a"
+    },
+    {
+      "path": "experiments.py",
+      "bytes": 13195,
+      "sha256": "172d31b4c0ca96178db297b63313dec608e0ea234abf5b1468b5175099760577"
+    },
+    {
+      "path": "lexical_features.py",
+      "bytes": 1322,
+      "sha256": "9e18f32d1bd688c8cda47a4ebb9dead5ff69ed5dc94dd092acdcf872a3de106e"
+    },
+    {
+      "path": "behavioral_retriever.py",
+      "bytes": 4221,
+      "sha256": "312807be29aa3c490dadaf8603dbd9a134a835506544791f0afb1aa38b152dea"
+    },
+    {
+      "path": "microcat_prior.py",
+      "bytes": 5547,
+      "sha256": "27ac7614c13b8f6e1c9c82062041b329452942dd41b033f0d0cebe51f3dbf5a0"
+    },
+    {
+      "path": "semantic_retriever.py",
+      "bytes": 6052,
+      "sha256": "bf4321733836afb74876fee6e74b351e558c025066466ca24e777c03ba3288bf"
+    },
+    {
+      "path": "check_answer.py",
+      "bytes": 1445,
+      "sha256": "835137be9c47cc9917e23f7cee9baf58840798c30d207477337686d0d066f099"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 130,
+      "sha256": "5c862237809813962eee64c3b90091cdd97588ca7a30fd2a5fa3850dfb8ca96a"
+    },
+    {
+      "path": "answer.csv",
+      "bytes": 2128353,
+      "sha256": "164d974a27b1daeee16bd0a169a6b54f76dfc28dc2c9ab3d2b869d3575a7db8c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6837,
+      "sha256": "c15381be67c37421ac7ad7feed52747d08c855469a8109fee491b56c39321dcf"
+    },
+    {
+      "path": "EXPERIMENTS.md",
+      "bytes": 17062,
+      "sha256": "c56f69a20093d68b3f9f4daa8f6e50da576eda54c6e3841392e8175809b2b1f7"
+    },
+    {
+      "path": "EXPERIMENT_NOTE.md",
+      "bytes": 6423,
+      "sha256": "cff9e0be0def5da1d987086820e0d60bfca62ea97740f1360fa32b7e94c73f35"
+    },
+    {
+      "path": "PLATFORM_DESCRIPTION.md",
+      "bytes": 2268,
+      "sha256": "3015d211659ec26c96df62a112b6c24d5aaabae654a56135ddd9a7af5a9a4a8a"
+    },
+    {
+      "path": "models/semantic_minilm/config.json",
+      "bytes": 673,
+      "sha256": "c8ec081fdad2df991bf5abbf18418fec7a5cdaa421f60ffb060a30040b8c376f"
+    },
+    {
+      "path": "models/semantic_minilm/LICENSE-2.0.txt",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "models/semantic_minilm/model_optimized.onnx",
+      "bytes": 235052644,
+      "sha256": "634d0f66c29dc934c8fa72b8a4fe91dd4d420a22f1d82a241058d4316e659a99"
+    },
+    {
+      "path": "models/semantic_minilm/MODEL_SOURCE.md",
+      "bytes": 652,
+      "sha256": "16b81fc7a032a8327fa0f9bd6686d04ab6452fa3f9394d89e0459b8ef9f5ce92"
+    },
+    {
+      "path": "models/semantic_minilm/special_tokens_map.json",
+      "bytes": 964,
+      "sha256": "8c785abebea9ae3257b61681b4e6fd8365ceafde980c21970d001e834cf10835"
+    },
+    {
+      "path": "models/semantic_minilm/tokenizer.json",
+      "bytes": 17083009,
+      "sha256": "fa685fc160bbdbab64058d4fc91b60e62d207e8dc60b9af5c002c5ab946ded00"
+    },
+    {
+      "path": "models/semantic_minilm/tokenizer_config.json",
+      "bytes": 1416,
+      "sha256": "0666eebf692422757e1dddf3c9fb1ded73ba3dc726c5828671fc89e45bf3609f"
+    }
+  ]
+}
